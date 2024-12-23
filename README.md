@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e Técnico de T.I`**
 
-Me chamo Geovane Gomes, tenho 18 anos e moro em São Paulo. Concluí um curso técnico de informática para internet integrado ao E.M na FITO. Sou entusiasta da tecnologia, gosto de explorar ferramentas e buscar novos desafios. Tenho experiências com desenvolvimento web e suporte técnico em computadores.
+Me chamo Geovane Gomes, tenho 18 anos e moro em São Paulo. Concluí um curso técnico de informática para internet integrado ao E.M na FITO. Sou entusiasta da tecnologia, gosto de explorar ferramentas e buscar novos desafios. Tenho experiências com suporte técnico em computadores.
 
 <div>
   <a href="geovanegsf02@gmail.com" target="_blank">
