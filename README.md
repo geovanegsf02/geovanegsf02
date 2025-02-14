@@ -7,7 +7,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="116" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent"
   />
 </p>
 
