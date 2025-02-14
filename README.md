@@ -1,21 +1,19 @@
 # Eai! Bem-vindo ao meu perfil GitHub ✌️
 
 <p>
-
   <img src ="https://github-readme-stats.vercel.app/api?username=geovanegsf02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=pt-br&hide_border=false&order=1&custom_title=GitHub%20de%20Geovane" height="116" align="left" alt="stats graph"  />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="116" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-
 </p>
 
+<br><br><br>
 
----
+<br>
 
 ### 🚀 Sobre mim
 
