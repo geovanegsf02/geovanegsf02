@@ -18,7 +18,7 @@
 ### 🚀 Sobre mim
 
 **`Estudante de Engenharia da Computação, formado como Técnico em Informática para Internet`**
-- <p><strong>Focado em:</strong> C# e .NET</p>
+- <p><strong>Focado em:</strong> C# e JavaScript</p>
 - <p><strong>Habilidades:</strong> PostgreSQL, back-end & front-end</p>
 - <p><strong>Buscando:</strong> Aprimorar habilidades para desenvolvimento web</p>
 
