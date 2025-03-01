@@ -7,7 +7,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="116" 
-      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent&cache_seconds=3600
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent&cache_seconds=3600
 )"
   />
 </p>
