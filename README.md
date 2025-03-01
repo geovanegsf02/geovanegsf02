@@ -6,7 +6,7 @@
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="116" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent"
   />
 </p>
