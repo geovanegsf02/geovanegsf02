@@ -6,8 +6,9 @@
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="80" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent"
+      height="116" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanegsf02&layout=compact&theme=transparent&cache_seconds=3600
+)"
   />
 </p>
 
