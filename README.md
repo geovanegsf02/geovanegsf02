@@ -5,7 +5,7 @@
 <p align="left">
   Olá, meu nome é Geovane. Sou desenvolvedor back-end e atualmente curso o 3º semestre de Engenharia de Computação.
   <br></br>
-  <a href="https://drive.google.com/file/d/1AhxDRskAGj13vm99gj7kZZimFdWgrF1n/view?usp=sharing" target="_blank">Acesse meu currículo.</a>
+  <a href="https://drive.google.com/file/d/1AhxDRskAGj13vm99gj7kZZimFdWgrF1n/view" target="_blank">Acesse meu currículo.</a>
 </p>
 
 <h2 align="left">Tecnologias</h2>
@@ -16,6 +16,8 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
