@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Olá, meu nome é Geovane. Sou desenvolvedor back-end e atualmente curso o 3º semestre de Engenharia de Computação.
+  Olá, meu nome é Geovane. Sou desenvolvedor back-end e atualmente curso o 4º semestre de Engenharia de Computação.
   <br></br>
   <a href="https://drive.google.com/file/d/1AhxDRskAGj13vm99gj7kZZimFdWgrF1n/view" target="_blank">Acesse meu currículo.</a>
 </p>
